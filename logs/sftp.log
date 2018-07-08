@@ -1,0 +1,351 @@
+Jul  8 14:34:08 10.71.51.0 u93299028 Connection from 10.71.51.0 port 62092 on 217.72.207.177 port 22
+Jul  8 14:34:11 10.71.51.0 u93299028 Accepted password for u93299028 from 10.71.51.0 port 62092 ssh2
+Jul  8 14:34:11 10.71.51.0 u93299028 Starting session: subsystem 'sftp' for u93299028 from 10.71.51.0 port 62092
+Jul  8 14:34:11 10.71.51.0 u93299028 session opened for local user u93299028 from [10.71.51.0]
+Jul  8 14:34:20 10.71.51.0 u93299028 Connection from 10.71.51.0 port 19176 on 217.72.207.177 port 22
+Jul  8 14:34:22 10.71.51.0 u93299028 Accepted password for u93299028 from 10.71.51.0 port 19176 ssh2
+Jul  8 14:34:22 10.71.51.0 u93299028 Starting session: subsystem 'sftp' for u93299028 from 10.71.51.0 port 19176
+Jul  8 14:34:22 10.71.51.0 u93299028 session opened for local user u93299028 from [10.71.51.0]
+Jul  8 14:34:23 10.71.51.0 u93299028 open "/fbfeeds/fbfeed.php" flags READ mode 0666
+Jul  8 14:34:23 10.71.51.0 u93299028 close "/fbfeeds/fbfeed.php" bytes read 4669 written 0
+Jul  8 14:34:23 10.71.51.0 u93299028 [10.71.51.0|get|0|4669|0|0|0|2f666266656564732f6662666565642e706870|]
+Jul  8 14:35:23 10.71.51.0 u93299028 session closed for local user u93299028 from [10.71.51.0]
+Jul  8 14:35:24 10.71.51.0 u93299028 Connection closed by 10.71.51.0
+Jul  8 14:37:37 10.71.51.0 u93299028 Connection from 10.71.51.0 port 31582 on 217.72.207.177 port 22
+Jul  8 14:37:39 10.71.51.0 u93299028 Accepted password for u93299028 from 10.71.51.0 port 31582 ssh2
+Jul  8 14:37:39 10.71.51.0 u93299028 Starting session: subsystem 'sftp' for u93299028 from 10.71.51.0 port 31582
+Jul  8 14:37:39 10.71.51.0 u93299028 session opened for local user u93299028 from [10.71.51.0]
+Jul  8 14:37:40 10.71.51.0 u93299028 open "/fbfeeds/fbreviews.php" flags READ mode 0666
+Jul  8 14:37:40 10.71.51.0 u93299028 close "/fbfeeds/fbreviews.php" bytes read 3532 written 0
+Jul  8 14:37:40 10.71.51.0 u93299028 [10.71.51.0|get|0|3532|0|0|0|2f666266656564732f6662726576696577732e706870|]
+Jul  8 14:38:40 10.71.51.0 u93299028 session closed for local user u93299028 from [10.71.51.0]
+Jul  8 14:38:41 10.71.51.0 u93299028 Connection closed by 10.71.51.0
+Jul  8 14:54:07 10.71.51.0 u93299028 Connection from 10.71.51.0 port 44354 on 217.72.207.177 port 22
+Jul  8 14:54:08 10.71.51.0 u93299028 Accepted password for u93299028 from 10.71.51.0 port 44354 ssh2
+Jul  8 14:54:08 10.71.51.0 u93299028 Starting session: subsystem 'sftp' for u93299028 from 10.71.51.0 port 44354
+Jul  8 14:54:08 10.71.51.0 u93299028 session opened for local user u93299028 from [10.71.51.0]
+Jul  8 14:54:09 10.71.51.0 u93299028 open "/index.php" flags READ mode 0666
+Jul  8 14:54:10 10.71.51.0 u93299028 close "/index.php" bytes read 39855 written 0
+Jul  8 14:54:10 10.71.51.0 u93299028 [10.71.51.0|get|1|39855|0|0|0|2f696e6465782e706870|]
+Jul  8 14:55:10 10.71.51.0 u93299028 session closed for local user u93299028 from [10.71.51.0]
+Jul  8 14:55:10 10.71.51.0 u93299028 Connection closed by 10.71.51.0
+Jul  8 15:29:36 10.71.51.0 u93299028 Connection from 10.71.51.0 port 37666 on 217.72.207.177 port 22
+Jul  8 15:29:38 10.71.51.0 u93299028 Accepted password for u93299028 from 10.71.51.0 port 37666 ssh2
+Jul  8 15:29:37 10.71.51.0 u93299028 Connection from 10.71.51.0 port 38264 on 217.72.207.177 port 22
+Jul  8 15:29:38 10.71.51.0 u93299028 Accepted password for u93299028 from 10.71.51.0 port 38264 ssh2
+Jul  8 15:29:38 10.71.51.0 u93299028 Starting session: subsystem 'sftp' for u93299028 from 10.71.51.0 port 37666
+Jul  8 15:29:38 10.71.51.0 u93299028 session opened for local user u93299028 from [10.71.51.0]
+Jul  8 15:29:38 10.71.51.0 u93299028 Starting session: subsystem 'sftp' for u93299028 from 10.71.51.0 port 38264
+Jul  8 15:29:38 10.71.51.0 u93299028 session opened for local user u93299028 from [10.71.51.0]
+Jul  8 15:29:38 10.71.51.0 u93299028 open "/index.php" flags READ mode 0666
+Jul  8 15:29:38 10.71.51.0 u93299028 open "/css/responsive.css" flags READ mode 0666
+Jul  8 15:29:39 10.71.51.0 u93299028 close "/css/responsive.css" bytes read 3951 written 0
+Jul  8 15:29:39 10.71.51.0 u93299028 [10.71.51.0|get|1|3951|0|0|0|2f6373732f726573706f6e736976652e637373|]
+Jul  8 15:29:39 10.71.51.0 u93299028 open "/css/main.css" flags READ mode 0666
+Jul  8 15:29:39 10.71.51.0 u93299028 close "/index.php" bytes read 39855 written 0
+Jul  8 15:29:39 10.71.51.0 u93299028 [10.71.51.0|get|1|39855|0|0|0|2f696e6465782e706870|]
+Jul  8 15:29:39 10.71.51.0 u93299028 close "/css/main.css" bytes read 17576 written 0
+Jul  8 15:29:39 10.71.51.0 u93299028 [10.71.51.0|get|0|17576|0|0|0|2f6373732f6d61696e2e637373|]
+Jul  8 15:29:39 10.71.51.0 u93299028 open "/css/font-awesome.min.css" flags READ mode 0666
+Jul  8 15:29:39 10.71.51.0 u93299028 open "/css/lightbox.css" flags READ mode 0666
+Jul  8 15:29:39 10.71.51.0 u93299028 close "/css/font-awesome.min.css" bytes read 23739 written 0
+Jul  8 15:29:39 10.71.51.0 u93299028 [10.71.51.0|get|0|23739|0|0|0|2f6373732f666f6e742d617765736f6d652e6d696e2e637373|]
+Jul  8 15:29:39 10.71.51.0 u93299028 close "/css/lightbox.css" bytes read 3970 written 0
+Jul  8 15:29:39 10.71.51.0 u93299028 [10.71.51.0|get|0|3970|0|0|0|2f6373732f6c69676874626f782e637373|]
+Jul  8 15:29:39 10.71.51.0 u93299028 open "/css/bootstrap.min.css" flags READ mode 0666
+Jul  8 15:29:39 10.71.51.0 u93299028 open "/css/animate.min.css" flags READ mode 0666
+Jul  8 15:29:40 10.71.51.0 u93299028 close "/css/animate.min.css" bytes read 73029 written 0
+Jul  8 15:29:40 10.71.51.0 u93299028 [10.71.51.0|get|1|73029|0|0|0|2f6373732f616e696d6174652e6d696e2e637373|]
+Jul  8 15:29:40 10.71.51.0 u93299028 close "/css/bootstrap.min.css" bytes read 117310 written 0
+Jul  8 15:29:40 10.71.51.0 u93299028 [10.71.51.0|get|1|117310|0|0|0|2f6373732f626f6f7473747261702e6d696e2e637373|]
+Jul  8 15:29:40 10.71.51.0 u93299028 open "/css/presets/preset5.css" flags READ mode 0666
+Jul  8 15:29:40 10.71.51.0 u93299028 open "/css/presets/preset6.css" flags READ mode 0666
+Jul  8 15:29:40 10.71.51.0 u93299028 close "/css/presets/preset5.css" bytes read 1134 written 0
+Jul  8 15:29:40 10.71.51.0 u93299028 [10.71.51.0|get|0|1134|0|0|0|2f6373732f707265736574732f707265736574352e637373|]
+Jul  8 15:29:40 10.71.51.0 u93299028 close "/css/presets/preset6.css" bytes read 1135 written 0
+Jul  8 15:29:40 10.71.51.0 u93299028 [10.71.51.0|get|0|1135|0|0|0|2f6373732f707265736574732f707265736574362e637373|]
+Jul  8 15:29:40 10.71.51.0 u93299028 open "/css/presets/preset4.css" flags READ mode 0666
+Jul  8 15:29:40 10.71.51.0 u93299028 open "/css/presets/preset3.css" flags READ mode 0666
+Jul  8 15:29:41 10.71.51.0 u93299028 close "/css/presets/preset3.css" bytes read 1134 written 0
+Jul  8 15:29:41 10.71.51.0 u93299028 [10.71.51.0|get|1|1134|0|0|0|2f6373732f707265736574732f707265736574332e637373|]
+Jul  8 15:29:41 10.71.51.0 u93299028 close "/css/presets/preset4.css" bytes read 1134 written 0
+Jul  8 15:29:41 10.71.51.0 u93299028 [10.71.51.0|get|1|1134|0|0|0|2f6373732f707265736574732f707265736574342e637373|]
+Jul  8 15:29:41 10.71.51.0 u93299028 open "/css/presets/preset2.css" flags READ mode 0666
+Jul  8 15:29:41 10.71.51.0 u93299028 open "/css/presets/preset1.css" flags READ mode 0666
+Jul  8 15:29:41 10.71.51.0 u93299028 sent status No such file
+Jul  8 15:29:41 10.71.51.0 u93299028 close "/css/presets/preset2.css" bytes read 1132 written 0
+Jul  8 15:29:41 10.71.51.0 u93299028 [10.71.51.0|get|0|1132|0|0|0|2f6373732f707265736574732f707265736574322e637373|]
+Jul  8 15:29:41 10.71.51.0 u93299028 close "/css/presets/preset1.css" bytes read 1350 written 0
+Jul  8 15:29:41 10.71.51.0 u93299028 [10.71.51.0|get|0|1350|0|0|0|2f6373732f707265736574732f707265736574312e637373|]
+Jul  8 15:29:41 10.71.51.0 u93299028 open "/fbfeeds/footerfeed.php" flags READ mode 0666
+Jul  8 15:29:41 10.71.51.0 u93299028 open "/fbfeeds/testfeed.php" flags READ mode 0666
+Jul  8 15:29:42 10.71.51.0 u93299028 close "/fbfeeds/footerfeed.php" bytes read 6213 written 0
+Jul  8 15:29:42 10.71.51.0 u93299028 [10.71.51.0|get|1|6213|0|0|0|2f666266656564732f666f6f746572666565642e706870|]
+Jul  8 15:29:42 10.71.51.0 u93299028 close "/fbfeeds/testfeed.php" bytes read 5113 written 0
+Jul  8 15:29:42 10.71.51.0 u93299028 [10.71.51.0|get|1|5113|0|0|0|2f666266656564732f74657374666565642e706870|]
+Jul  8 15:29:42 10.71.51.0 u93299028 open "/fbfeeds/fbreviews.php" flags READ mode 0666
+Jul  8 15:29:42 10.71.51.0 u93299028 open "/fbfeeds/fbfeed.php" flags READ mode 0666
+Jul  8 15:29:42 10.71.51.0 u93299028 close "/fbfeeds/fbreviews.php" bytes read 3532 written 0
+Jul  8 15:29:42 10.71.51.0 u93299028 [10.71.51.0|get|0|3532|0|0|0|2f666266656564732f6662726576696577732e706870|]
+Jul  8 15:29:42 10.71.51.0 u93299028 close "/fbfeeds/fbfeed.php" bytes read 4669 written 0
+Jul  8 15:29:42 10.71.51.0 u93299028 [10.71.51.0|get|0|4669|0|0|0|2f666266656564732f6662666565642e706870|]
+Jul  8 15:29:42 10.71.51.0 u93299028 open "/fbfeeds/dollicious.php" flags READ mode 0666
+Jul  8 15:29:42 10.71.51.0 u93299028 open "/fonts/glyphicons-halflings-regular.woff2" flags READ mode 0666
+Jul  8 15:29:42 10.71.51.0 u93299028 close "/fbfeeds/dollicious.php" bytes read 14760 written 0
+Jul  8 15:29:42 10.71.51.0 u93299028 [10.71.51.0|get|0|14760|0|0|0|2f666266656564732f646f6c6c6963696f75732e706870|]
+Jul  8 15:29:42 10.71.51.0 u93299028 close "/fonts/glyphicons-halflings-regular.woff2" bytes read 18028 written 0
+Jul  8 15:29:42 10.71.51.0 u93299028 [10.71.51.0|get|0|18028|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f666632|]
+Jul  8 15:29:43 10.71.51.0 u93299028 open "/fonts/glyphicons-halflings-regular.woff" flags READ mode 0666
+Jul  8 15:29:43 10.71.51.0 u93299028 open "/fonts/glyphicons-halflings-regular.ttf" flags READ mode 0666
+Jul  8 15:29:43 10.71.51.0 u93299028 close "/fonts/glyphicons-halflings-regular.woff" bytes read 23424 written 0
+Jul  8 15:29:43 10.71.51.0 u93299028 [10.71.51.0|get|0|23424|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f6666|]
+Jul  8 15:29:43 10.71.51.0 u93299028 close "/fonts/glyphicons-halflings-regular.ttf" bytes read 45404 written 0
+Jul  8 15:29:43 10.71.51.0 u93299028 [10.71.51.0|get|0|45404|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e747466|]
+Jul  8 15:29:43 10.71.51.0 u93299028 open "/fonts/glyphicons-halflings-regular.svg" flags READ mode 0666
+Jul  8 15:29:43 10.71.51.0 u93299028 open "/fonts/glyphicons-halflings-regular.eot" flags READ mode 0666
+Jul  8 15:29:43 10.71.51.0 u93299028 close "/fonts/glyphicons-halflings-regular.eot" bytes read 20127 written 0
+Jul  8 15:29:43 10.71.51.0 u93299028 [10.71.51.0|get|0|20127|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e656f74|]
+Jul  8 15:29:43 10.71.51.0 u93299028 close "/fonts/glyphicons-halflings-regular.svg" bytes read 108738 written 0
+Jul  8 15:29:43 10.71.51.0 u93299028 [10.71.51.0|get|0|108738|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e737667|]
+Jul  8 15:29:43 10.71.51.0 u93299028 open "/fonts/FontAwesome.otf" flags READ mode 0666
+Jul  8 15:29:44 10.71.51.0 u93299028 open "/fonts/fontawesome-webfont.woff2" flags READ mode 0666
+Jul  8 15:29:44 10.71.51.0 u93299028 close "/fonts/FontAwesome.otf" bytes read 93888 written 0
+Jul  8 15:29:44 10.71.51.0 u93299028 [10.71.51.0|get|1|93888|0|0|0|2f666f6e74732f466f6e74417765736f6d652e6f7466|]
+Jul  8 15:29:44 10.71.51.0 u93299028 close "/fonts/fontawesome-webfont.woff2" bytes read 56780 written 0
+Jul  8 15:29:44 10.71.51.0 u93299028 [10.71.51.0|get|0|56780|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f666632|]
+Jul  8 15:29:44 10.71.51.0 u93299028 open "/fonts/fontawesome-webfont.woff" flags READ mode 0666
+Jul  8 15:29:44 10.71.51.0 u93299028 open "/fonts/fontawesome-webfont.ttf" flags READ mode 0666
+Jul  8 15:29:44 10.71.51.0 u93299028 close "/fonts/fontawesome-webfont.woff" bytes read 71508 written 0
+Jul  8 15:29:44 10.71.51.0 u93299028 [10.71.51.0|get|0|71508|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f6666|]
+Jul  8 15:29:44 10.71.51.0 u93299028 close "/fonts/fontawesome-webfont.ttf" bytes read 122092 written 0
+Jul  8 15:29:44 10.71.51.0 u93299028 [10.71.51.0|get|0|122092|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e747466|]
+Jul  8 15:29:44 10.71.51.0 u93299028 open "/fonts/fontawesome-webfont.svg" flags READ mode 0666
+Jul  8 15:29:44 10.71.51.0 u93299028 open "/fonts/fontawesome-webfont.eot" flags READ mode 0666
+Jul  8 15:29:45 10.71.51.0 u93299028 close "/fonts/fontawesome-webfont.eot" bytes read 60767 written 0
+Jul  8 15:29:45 10.71.51.0 u93299028 [10.71.51.0|get|1|60767|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e656f74|]
+Jul  8 15:29:45 10.71.51.0 u93299028 close "/fonts/fontawesome-webfont.svg" bytes read 313398 written 0
+Jul  8 15:29:45 10.71.51.0 u93299028 [10.71.51.0|get|1|313398|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e737667|]
+Jul  8 15:29:45 10.71.51.0 u93299028 open "/Images/buddha-bg.png" flags READ mode 0666
+Jul  8 15:29:45 10.71.51.0 u93299028 open "/Images/image4-sm.JPG" flags READ mode 0666
+Jul  8 15:29:45 10.71.51.0 u93299028 close "/Images/buddha-bg.png" bytes read 592581 written 0
+Jul  8 15:29:45 10.71.51.0 u93299028 [10.71.51.0|get|0|592581|0|0|0|2f496d616765732f6275646468612d62672e706e67|]
+Jul  8 15:29:46 10.71.51.0 u93299028 close "/Images/image4-sm.JPG" bytes read 229530 written 0
+Jul  8 15:29:46 10.71.51.0 u93299028 [10.71.51.0|get|0|229530|0|0|0|2f496d616765732f696d616765342d736d2e4a5047|]
+Jul  8 15:29:46 10.71.51.0 u93299028 open "/Images/image6-sm.JPG" flags READ mode 0666
+Jul  8 15:29:46 10.71.51.0 u93299028 open "/Images/image7-sm.JPG" flags READ mode 0666
+Jul  8 15:29:46 10.71.51.0 u93299028 close "/Images/image6-sm.JPG" bytes read 338386 written 0
+Jul  8 15:29:46 10.71.51.0 u93299028 [10.71.51.0|get|0|338386|0|0|0|2f496d616765732f696d616765362d736d2e4a5047|]
+Jul  8 15:29:46 10.71.51.0 u93299028 close "/Images/image7-sm.JPG" bytes read 494389 written 0
+Jul  8 15:29:46 10.71.51.0 u93299028 [10.71.51.0|get|0|494389|0|0|0|2f496d616765732f696d616765372d736d2e4a5047|]
+Jul  8 15:29:46 10.71.51.0 u93299028 open "/Images/bikes-sm.jpg" flags READ mode 0666
+Jul  8 15:29:46 10.71.51.0 u93299028 open "/Images/image18-sm.JPG" flags READ mode 0666
+Jul  8 15:29:46 10.71.51.0 u93299028 close "/Images/bikes-sm.jpg" bytes read 306479 written 0
+Jul  8 15:29:46 10.71.51.0 u93299028 [10.71.51.0|get|0|306479|0|0|0|2f496d616765732f62696b65732d736d2e6a7067|]
+Jul  8 15:29:46 10.71.51.0 u93299028 close "/Images/image18-sm.JPG" bytes read 351065 written 0
+Jul  8 15:29:46 10.71.51.0 u93299028 [10.71.51.0|get|0|351065|0|0|0|2f496d616765732f696d61676531382d736d2e4a5047|]
+Jul  8 15:29:46 10.71.51.0 u93299028 open "/Images/image17-sm.JPG" flags READ mode 0666
+Jul  8 15:29:47 10.71.51.0 u93299028 open "/Images/image11-sm.JPG" flags READ mode 0666
+Jul  8 15:29:47 10.71.51.0 u93299028 close "/Images/image17-sm.JPG" bytes read 292528 written 0
+Jul  8 15:29:47 10.71.51.0 u93299028 [10.71.51.0|get|1|292528|0|0|0|2f496d616765732f696d61676531372d736d2e4a5047|]
+Jul  8 15:29:47 10.71.51.0 u93299028 close "/Images/image11-sm.JPG" bytes read 387560 written 0
+Jul  8 15:29:47 10.71.51.0 u93299028 [10.71.51.0|get|0|387560|0|0|0|2f496d616765732f696d61676531312d736d2e4a5047|]
+Jul  8 15:29:47 10.71.51.0 u93299028 open "/Images/image3-sm.JPG" flags READ mode 0666
+Jul  8 15:29:47 10.71.51.0 u93299028 open "/Images/image2-sm.JPG" flags READ mode 0666
+Jul  8 15:29:47 10.71.51.0 u93299028 close "/Images/image3-sm.JPG" bytes read 309207 written 0
+Jul  8 15:29:47 10.71.51.0 u93299028 [10.71.51.0|get|0|309207|0|0|0|2f496d616765732f696d616765332d736d2e4a5047|]
+Jul  8 15:29:47 10.71.51.0 u93299028 close "/Images/image2-sm.JPG" bytes read 338292 written 0
+Jul  8 15:29:47 10.71.51.0 u93299028 [10.71.51.0|get|0|338292|0|0|0|2f496d616765732f696d616765322d736d2e4a5047|]
+Jul  8 15:29:47 10.71.51.0 u93299028 open "/Images/image8-sm.JPG" flags READ mode 0666
+Jul  8 15:29:47 10.71.51.0 u93299028 open "/Images/viewpoint.jpg" flags READ mode 0666
+Jul  8 15:29:48 10.71.51.0 u93299028 close "/Images/image8-sm.JPG" bytes read 456488 written 0
+Jul  8 15:29:48 10.71.51.0 u93299028 [10.71.51.0|get|1|456488|0|0|0|2f496d616765732f696d616765382d736d2e4a5047|]
+Jul  8 15:29:48 10.71.51.0 u93299028 close "/Images/viewpoint.jpg" bytes read 86550 written 0
+Jul  8 15:29:48 10.71.51.0 u93299028 [10.71.51.0|get|1|86550|0|0|0|2f496d616765732f76696577706f696e742e6a7067|]
+Jul  8 15:29:48 10.71.51.0 u93299028 open "/Images/uk.PNG" flags READ mode 0666
+Jul  8 15:29:48 10.71.51.0 u93299028 open "/Images/super.xcf" flags READ mode 0666
+Jul  8 15:29:48 10.71.51.0 u93299028 close "/Images/uk.PNG" bytes read 2863 written 0
+Jul  8 15:29:48 10.71.51.0 u93299028 [10.71.51.0|get|0|2863|0|0|0|2f496d616765732f756b2e504e47|]
+Jul  8 15:29:48 10.71.51.0 u93299028 close "/Images/super.xcf" bytes read 11848 written 0
+Jul  8 15:29:48 10.71.51.0 u93299028 [10.71.51.0|get|0|11848|0|0|0|2f496d616765732f73757065722e786366|]
+Jul  8 15:29:48 10.71.51.0 u93299028 open "/Images/super.pdf" flags READ mode 0666
+Jul  8 15:29:48 10.71.51.0 u93299028 open "/Images/super.jpg" flags READ mode 0666
+Jul  8 15:29:48 10.71.51.0 u93299028 close "/Images/super.jpg" bytes read 16465 written 0
+Jul  8 15:29:48 10.71.51.0 u93299028 [10.71.51.0|get|0|16465|0|0|0|2f496d616765732f73757065722e6a7067|]
+Jul  8 15:29:49 10.71.51.0 u93299028 open "/Images/phuket-island.png" flags READ mode 0666
+Jul  8 15:29:49 10.71.51.0 u93299028 close "/Images/super.pdf" bytes read 1227097 written 0
+Jul  8 15:29:49 10.71.51.0 u93299028 [10.71.51.0|get|1|1227097|0|0|0|2f496d616765732f73757065722e706466|]
+Jul  8 15:29:49 10.71.51.0 u93299028 open "/Images/image9.JPG" flags READ mode 0666
+Jul  8 15:29:49 10.71.51.0 u93299028 close "/Images/phuket-island.png" bytes read 103458 written 0
+Jul  8 15:29:49 10.71.51.0 u93299028 [10.71.51.0|get|0|103458|0|0|0|2f496d616765732f7068756b65742d69736c616e642e706e67|]
+Jul  8 15:29:49 10.71.51.0 u93299028 open "/Images/image8.JPG" flags READ mode 0666
+Jul  8 15:29:51 10.71.51.0 u93299028 close "/Images/image8.JPG" bytes read 3087156 written 0
+Jul  8 15:29:51 10.71.51.0 u93299028 [10.71.51.0|get|2|3087156|0|0|0|2f496d616765732f696d616765382e4a5047|]
+Jul  8 15:29:51 10.71.51.0 u93299028 open "/Images/image7.JPG" flags READ mode 0666
+Jul  8 15:29:51 10.71.51.0 u93299028 close "/Images/image9.JPG" bytes read 4959390 written 0
+Jul  8 15:29:51 10.71.51.0 u93299028 [10.71.51.0|get|2|4959390|0|0|0|2f496d616765732f696d616765392e4a5047|]
+Jul  8 15:29:52 10.71.51.0 u93299028 open "/Images/image6.JPG" flags READ mode 0666
+Jul  8 15:29:53 10.71.51.0 u93299028 close "/Images/image7.JPG" bytes read 3954654 written 0
+Jul  8 15:29:53 10.71.51.0 u93299028 [10.71.51.0|get|2|3954654|0|0|0|2f496d616765732f696d616765372e4a5047|]
+Jul  8 15:29:53 10.71.51.0 u93299028 open "/Images/image5.JPG" flags READ mode 0666
+Jul  8 15:29:53 10.71.51.0 u93299028 close "/Images/image6.JPG" bytes read 2762468 written 0
+Jul  8 15:29:53 10.71.51.0 u93299028 [10.71.51.0|get|1|2762468|0|0|0|2f496d616765732f696d616765362e4a5047|]
+Jul  8 15:29:53 10.71.51.0 u93299028 open "/Images/image4.JPG" flags READ mode 0666
+Jul  8 15:29:55 10.71.51.0 u93299028 close "/Images/image4.JPG" bytes read 1952748 written 0
+Jul  8 15:29:55 10.71.51.0 u93299028 [10.71.51.0|get|2|1952748|0|0|0|2f496d616765732f696d616765342e4a5047|]
+Jul  8 15:29:55 10.71.51.0 u93299028 open "/Images/image3.JPG" flags READ mode 0666
+Jul  8 15:29:56 10.71.51.0 u93299028 close "/Images/image5.JPG" bytes read 6569105 written 0
+Jul  8 15:29:56 10.71.51.0 u93299028 [10.71.51.0|get|3|6569105|0|0|0|2f496d616765732f696d616765352e4a5047|]
+Jul  8 15:29:56 10.71.51.0 u93299028 open "/Images/image2.JPG" flags READ mode 0666
+Jul  8 15:29:57 10.71.51.0 u93299028 close "/Images/image3.JPG" bytes read 2345091 written 0
+Jul  8 15:29:57 10.71.51.0 u93299028 [10.71.51.0|get|2|2345091|0|0|0|2f496d616765732f696d616765332e4a5047|]
+Jul  8 15:29:57 10.71.51.0 u93299028 open "/Images/image18.JPG" flags READ mode 0666
+Jul  8 15:29:58 10.71.51.0 u93299028 close "/Images/image2.JPG" bytes read 2468424 written 0
+Jul  8 15:29:58 10.71.51.0 u93299028 [10.71.51.0|get|2|2468424|0|0|0|2f496d616765732f696d616765322e4a5047|]
+Jul  8 15:29:58 10.71.51.0 u93299028 open "/Images/image17.JPG" flags READ mode 0666
+Jul  8 15:29:59 10.71.51.0 u93299028 close "/Images/image18.JPG" bytes read 2367557 written 0
+Jul  8 15:29:59 10.71.51.0 u93299028 [10.71.51.0|get|2|2367557|0|0|0|2f496d616765732f696d61676531382e4a5047|]
+Jul  8 15:29:59 10.71.51.0 u93299028 open "/Images/image16.JPG" flags READ mode 0666
+Jul  8 15:29:59 10.71.51.0 u93299028 close "/Images/image17.JPG" bytes read 1982613 written 0
+Jul  8 15:29:59 10.71.51.0 u93299028 [10.71.51.0|get|1|1982613|0|0|0|2f496d616765732f696d61676531372e4a5047|]
+Jul  8 15:29:59 10.71.51.0 u93299028 open "/Images/image15.JPG" flags READ mode 0666
+Jul  8 15:30:01 10.71.51.0 u93299028 close "/Images/image15.JPG" bytes read 3074919 written 0
+Jul  8 15:30:01 10.71.51.0 u93299028 [10.71.51.0|get|2|3074919|0|0|0|2f496d616765732f696d61676531352e4a5047|]
+Jul  8 15:30:01 10.71.51.0 u93299028 open "/Images/image14.JPG" flags READ mode 0666
+Jul  8 15:30:03 10.71.51.0 u93299028 close "/Images/image14.JPG" bytes read 2797049 written 0
+Jul  8 15:30:03 10.71.51.0 u93299028 [10.71.51.0|get|2|2797049|0|0|0|2f496d616765732f696d61676531342e4a5047|]
+Jul  8 15:30:03 10.71.51.0 u93299028 open "/Images/image13.JPG" flags READ mode 0666
+Jul  8 15:30:04 10.71.51.0 u93299028 close "/Images/image16.JPG" bytes read 10032635 written 0
+Jul  8 15:30:04 10.71.51.0 u93299028 [10.71.51.0|get|5|10032635|0|0|0|2f496d616765732f696d61676531362e4a5047|]
+Jul  8 15:30:04 10.71.51.0 u93299028 open "/Images/image12.JPG" flags READ mode 0666
+Jul  8 15:30:04 10.71.51.0 u93299028 close "/Images/image13.JPG" bytes read 2587586 written 0
+Jul  8 15:30:04 10.71.51.0 u93299028 [10.71.51.0|get|1|2587586|0|0|0|2f496d616765732f696d61676531332e4a5047|]
+Jul  8 15:30:05 10.71.51.0 u93299028 open "/Images/image11.JPG" flags READ mode 0666
+Jul  8 15:30:07 10.71.51.0 u93299028 close "/Images/image11.JPG" bytes read 2907233 written 0
+Jul  8 15:30:07 10.71.51.0 u93299028 [10.71.51.0|get|2|2907233|0|0|0|2f496d616765732f696d61676531312e4a5047|]
+Jul  8 15:30:07 10.71.51.0 u93299028 open "/Images/image10.JPG" flags READ mode 0666
+Jul  8 15:30:08 10.71.51.0 u93299028 close "/Images/image12.JPG" bytes read 9435957 written 0
+Jul  8 15:30:08 10.71.51.0 u93299028 [10.71.51.0|get|4|9435957|0|0|0|2f496d616765732f696d61676531322e4a5047|]
+Jul  8 15:30:09 10.71.51.0 u93299028 open "/Images/image1.JPG" flags READ mode 0666
+Jul  8 15:30:09 10.71.51.0 u93299028 close "/Images/image1.JPG" bytes read 193407 written 0
+Jul  8 15:30:09 10.71.51.0 u93299028 [10.71.51.0|get|0|193407|0|0|0|2f496d616765732f696d616765312e4a5047|]
+Jul  8 15:30:09 10.71.51.0 u93299028 open "/Images/Honda-PCX150.jpg" flags READ mode 0666
+Jul  8 15:30:09 10.71.51.0 u93299028 close "/Images/Honda-PCX150.jpg" bytes read 56856 written 0
+Jul  8 15:30:09 10.71.51.0 u93299028 [10.71.51.0|get|0|56856|0|0|0|2f496d616765732f486f6e64612d5043583135302e6a7067|]
+Jul  8 15:30:09 10.71.51.0 u93299028 close "/Images/image10.JPG" bytes read 3391264 written 0
+Jul  8 15:30:09 10.71.51.0 u93299028 [10.71.51.0|get|2|3391264|0|0|0|2f496d616765732f696d61676531302e4a5047|]
+Jul  8 15:30:09 10.71.51.0 u93299028 open "/Images/Honda-PCX-150.jpg" flags READ mode 0666
+Jul  8 15:30:09 10.71.51.0 u93299028 open "/Images/Genuine-Thailand-Honda-Click-125i-Scooter.jpg" flags READ mode 0666
+Jul  8 15:30:10 10.71.51.0 u93299028 close "/Images/Honda-PCX-150.jpg" bytes read 35639 written 0
+Jul  8 15:30:10 10.71.51.0 u93299028 [10.71.51.0|get|1|35639|0|0|0|2f496d616765732f486f6e64612d5043582d3135302e6a7067|]
+Jul  8 15:30:10 10.71.51.0 u93299028 close "/Images/Genuine-Thailand-Honda-Click-125i-Scooter.jpg" bytes read 260844 written 0
+Jul  8 15:30:10 10.71.51.0 u93299028 [10.71.51.0|get|1|260844|0|0|0|2f496d616765732f47656e75696e652d546861696c616e642d486f6e64612d436c69636b2d313235692d53636f6f7465722e6a7067|]
+Jul  8 15:30:10 10.71.51.0 u93299028 open "/Images/gb.svg" flags READ mode 0666
+Jul  8 15:30:10 10.71.51.0 u93299028 open "/Images/biketest.jpg" flags READ mode 0666
+Jul  8 15:30:10 10.71.51.0 u93299028 close "/Images/gb.svg" bytes read 981 written 0
+Jul  8 15:30:10 10.71.51.0 u93299028 [10.71.51.0|get|0|981|0|0|0|2f496d616765732f67622e737667|]
+Jul  8 15:30:10 10.71.51.0 u93299028 close "/Images/biketest.jpg" bytes read 44917 written 0
+Jul  8 15:30:10 10.71.51.0 u93299028 [10.71.51.0|get|0|44917|0|0|0|2f496d616765732f62696b65746573742e6a7067|]
+Jul  8 15:30:10 10.71.51.0 u93299028 open "/Images/bikes.jpg" flags READ mode 0666
+Jul  8 15:30:10 10.71.51.0 u93299028 open "/Images/bg.svg" flags READ mode 0666
+Jul  8 15:30:10 10.71.51.0 u93299028 close "/Images/bg.svg" bytes read 330 written 0
+Jul  8 15:30:10 10.71.51.0 u93299028 [10.71.51.0|get|0|330|0|0|0|2f496d616765732f62672e737667|]
+Jul  8 15:30:11 10.71.51.0 u93299028 open "/Images/lightbox/prev.png" flags READ mode 0666
+Jul  8 15:30:11 10.71.51.0 u93299028 close "/Images/lightbox/prev.png" bytes read 1360 written 0
+Jul  8 15:30:11 10.71.51.0 u93299028 [10.71.51.0|get|0|1360|0|0|0|2f496d616765732f6c69676874626f782f707265762e706e67|]
+Jul  8 15:30:11 10.71.51.0 u93299028 open "/Images/lightbox/next.png" flags READ mode 0666
+Jul  8 15:30:11 10.71.51.0 u93299028 close "/Images/bikes.jpg" bytes read 2381103 written 0
+Jul  8 15:30:11 10.71.51.0 u93299028 [10.71.51.0|get|1|2381103|0|0|0|2f496d616765732f62696b65732e6a7067|]
+Jul  8 15:30:11 10.71.51.0 u93299028 close "/Images/lightbox/next.png" bytes read 1350 written 0
+Jul  8 15:30:11 10.71.51.0 u93299028 [10.71.51.0|get|0|1350|0|0|0|2f496d616765732f6c69676874626f782f6e6578742e706e67|]
+Jul  8 15:30:11 10.71.51.0 u93299028 open "/Images/lightbox/close.png" flags READ mode 0666
+Jul  8 15:30:11 10.71.51.0 u93299028 open "/Images/lightbox/loading.gif" flags READ mode 0666
+Jul  8 15:30:12 10.71.51.0 u93299028 close "/Images/lightbox/close.png" bytes read 280 written 0
+Jul  8 15:30:12 10.71.51.0 u93299028 [10.71.51.0|get|1|280|0|0|0|2f496d616765732f6c69676874626f782f636c6f73652e706e67|]
+Jul  8 15:30:12 10.71.51.0 u93299028 close "/Images/lightbox/loading.gif" bytes read 8476 written 0
+Jul  8 15:30:12 10.71.51.0 u93299028 [10.71.51.0|get|1|8476|0|0|0|2f496d616765732f6c69676874626f782f6c6f6164696e672e676966|]
+Jul  8 15:30:12 10.71.51.0 u93299028 open "/js/wow.min.js" flags READ mode 0666
+Jul  8 15:30:12 10.71.51.0 u93299028 open "/js/smoothscroll.js" flags READ mode 0666
+Jul  8 15:30:12 10.71.51.0 u93299028 close "/js/smoothscroll.js" bytes read 6597 written 0
+Jul  8 15:30:12 10.71.51.0 u93299028 [10.71.51.0|get|0|6597|0|0|0|2f6a732f736d6f6f74687363726f6c6c2e6a73|]
+Jul  8 15:30:12 10.71.51.0 u93299028 close "/js/wow.min.js" bytes read 4776 written 0
+Jul  8 15:30:12 10.71.51.0 u93299028 [10.71.51.0|get|0|4776|0|0|0|2f6a732f776f772e6d696e2e6a73|]
+Jul  8 15:30:12 10.71.51.0 u93299028 open "/js/respond.min.js" flags READ mode 0666
+Jul  8 15:30:12 10.71.51.0 u93299028 open "/js/mousescroll.js" flags READ mode 0666
+Jul  8 15:30:13 10.71.51.0 u93299028 close "/js/respond.min.js" bytes read 4035 written 0
+Jul  8 15:30:13 10.71.51.0 u93299028 [10.71.51.0|get|1|4035|0|0|0|2f6a732f726573706f6e642e6d696e2e6a73|]
+Jul  8 15:30:13 10.71.51.0 u93299028 close "/js/mousescroll.js" bytes read 9509 written 0
+Jul  8 15:30:13 10.71.51.0 u93299028 [10.71.51.0|get|1|9509|0|0|0|2f6a732f6d6f7573657363726f6c6c2e6a73|]
+Jul  8 15:30:13 10.71.51.0 u93299028 open "/js/main.js" flags READ mode 0666
+Jul  8 15:30:13 10.71.51.0 u93299028 open "/js/lightbox.min.js" flags READ mode 0666
+Jul  8 15:30:13 10.71.51.0 u93299028 close "/js/lightbox.min.js" bytes read 7800 written 0
+Jul  8 15:30:13 10.71.51.0 u93299028 [10.71.51.0|get|0|7800|0|0|0|2f6a732f6c69676874626f782e6d696e2e6a73|]
+Jul  8 15:30:13 10.71.51.0 u93299028 open "/js/jquery.js" flags READ mode 0666
+Jul  8 15:30:13 10.71.51.0 u93299028 close "/js/main.js" bytes read 4602 written 0
+Jul  8 15:30:13 10.71.51.0 u93299028 [10.71.51.0|get|0|4602|0|0|0|2f6a732f6d61696e2e6a73|]
+Jul  8 15:30:13 10.71.51.0 u93299028 open "/js/jquery.inview.min.js" flags READ mode 0666
+Jul  8 15:30:14 10.71.51.0 u93299028 close "/js/jquery.inview.min.js" bytes read 1264 written 0
+Jul  8 15:30:14 10.71.51.0 u93299028 [10.71.51.0|get|1|1264|0|0|0|2f6a732f6a71756572792e696e766965772e6d696e2e6a73|]
+Jul  8 15:30:14 10.71.51.0 u93299028 close "/js/jquery.js" bytes read 96381 written 0
+Jul  8 15:30:14 10.71.51.0 u93299028 [10.71.51.0|get|1|96381|0|0|0|2f6a732f6a71756572792e6a73|]
+Jul  8 15:30:14 10.71.51.0 u93299028 open "/js/jquery.countTo.js" flags READ mode 0666
+Jul  8 15:30:14 10.71.51.0 u93299028 open "/js/html5shiv.js" flags READ mode 0666
+Jul  8 15:30:14 10.71.51.0 u93299028 close "/js/jquery.countTo.js" bytes read 2501 written 0
+Jul  8 15:30:14 10.71.51.0 u93299028 [10.71.51.0|get|0|2501|0|0|0|2f6a732f6a71756572792e636f756e74546f2e6a73|]
+Jul  8 15:30:14 10.71.51.0 u93299028 close "/js/html5shiv.js" bytes read 2376 written 0
+Jul  8 15:30:14 10.71.51.0 u93299028 [10.71.51.0|get|0|2376|0|0|0|2f6a732f68746d6c35736869762e6a73|]
+Jul  8 15:30:14 10.71.51.0 u93299028 open "/js/bootstrap.min.js" flags READ mode 0666
+Jul  8 15:30:14 10.71.51.0 u93299028 open "/logs/access.log.26.7.gz" flags READ mode 0666
+Jul  8 15:30:14 10.71.51.0 u93299028 close "/logs/access.log.26.7.gz" bytes read 1196 written 0
+Jul  8 15:30:14 10.71.51.0 u93299028 [10.71.51.0|get|0|1196|0|0|0|2f6c6f67732f6163636573732e6c6f672e32362e372e677a|]
+Jul  8 15:30:14 10.71.51.0 u93299028 close "/js/bootstrap.min.js" bytes read 35951 written 0
+Jul  8 15:30:14 10.71.51.0 u93299028 [10.71.51.0|get|0|35951|0|0|0|2f6a732f626f6f7473747261702e6d696e2e6a73|]
+Jul  8 15:30:14 10.71.51.0 u93299028 open "/logs/sftp.log.22.gz" flags READ mode 0666
+Jul  8 15:30:14 10.71.51.0 u93299028 open "/logs/mail.log.21.gz" flags READ mode 0666
+Jul  8 15:30:14 10.71.51.0 u93299028 close "/logs/sftp.log.22.gz" bytes read 227 written 0
+Jul  8 15:30:14 10.71.51.0 u93299028 [10.71.51.0|get|0|227|0|0|0|2f6c6f67732f736674702e6c6f672e32322e677a|]
+Jul  8 15:30:15 10.71.51.0 u93299028 close "/logs/mail.log.21.gz" bytes read 308 written 0
+Jul  8 15:30:15 10.71.51.0 u93299028 [10.71.51.0|get|1|308|0|0|0|2f6c6f67732f6d61696c2e6c6f672e32312e677a|]
+Jul  8 15:30:15 10.71.51.0 u93299028 open "/logs/access.log.25.gz" flags READ mode 0666
+Jul  8 15:30:15 10.71.51.0 u93299028 open "/logs/sftp.log.26.gz" flags READ mode 0666
+Jul  8 15:30:15 10.71.51.0 u93299028 close "/logs/access.log.25.gz" bytes read 8479 written 0
+Jul  8 15:30:15 10.71.51.0 u93299028 [10.71.51.0|get|0|8479|0|0|0|2f6c6f67732f6163636573732e6c6f672e32352e677a|]
+Jul  8 15:30:15 10.71.51.0 u93299028 close "/logs/sftp.log.26.gz" bytes read 361 written 0
+Jul  8 15:30:15 10.71.51.0 u93299028 [10.71.51.0|get|0|361|0|0|0|2f6c6f67732f736674702e6c6f672e32362e677a|]
+Jul  8 15:30:15 10.71.51.0 u93299028 open "/logs/access.log.26.5.gz" flags READ mode 0666
+Jul  8 15:30:15 10.71.51.0 u93299028 open "/logs/access.log.26.4.gz" flags READ mode 0666
+Jul  8 15:30:15 10.71.51.0 u93299028 close "/logs/access.log.26.5.gz" bytes read 742 written 0
+Jul  8 15:30:15 10.71.51.0 u93299028 [10.71.51.0|get|0|742|0|0|0|2f6c6f67732f6163636573732e6c6f672e32362e352e677a|]
+Jul  8 15:30:15 10.71.51.0 u93299028 close "/logs/access.log.26.4.gz" bytes read 528 written 0
+Jul  8 15:30:15 10.71.51.0 u93299028 [10.71.51.0|get|0|528|0|0|0|2f6c6f67732f6163636573732e6c6f672e32362e342e677a|]
+Jul  8 15:30:15 10.71.51.0 u93299028 open "/logs/access.log.26.2.gz" flags READ mode 0666
+Jul  8 15:30:15 10.71.51.0 u93299028 open "/logs/access.log.26.1.gz" flags READ mode 0666
+Jul  8 15:30:16 10.71.51.0 u93299028 close "/logs/access.log.26.2.gz" bytes read 657 written 0
+Jul  8 15:30:16 10.71.51.0 u93299028 [10.71.51.0|get|1|657|0|0|0|2f6c6f67732f6163636573732e6c6f672e32362e322e677a|]
+Jul  8 15:30:16 10.71.51.0 u93299028 close "/logs/access.log.26.1.gz" bytes read 533 written 0
+Jul  8 15:30:16 10.71.51.0 u93299028 [10.71.51.0|get|1|533|0|0|0|2f6c6f67732f6163636573732e6c6f672e32362e312e677a|]
+Jul  8 15:30:16 10.71.51.0 u93299028 open "/logs/access.log.22.gz" flags READ mode 0666
+Jul  8 15:30:16 10.71.51.0 u93299028 open "/logs/access.log.27.6.gz" flags READ mode 0666
+Jul  8 15:30:16 10.71.51.0 u93299028 close "/logs/access.log.22.gz" bytes read 5038 written 0
+Jul  8 15:30:16 10.71.51.0 u93299028 [10.71.51.0|get|0|5038|0|0|0|2f6c6f67732f6163636573732e6c6f672e32322e677a|]
+Jul  8 15:30:16 10.71.51.0 u93299028 close "/logs/access.log.27.6.gz" bytes read 670 written 0
+Jul  8 15:30:16 10.71.51.0 u93299028 [10.71.51.0|get|0|670|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e362e677a|]
+Jul  8 15:30:16 10.71.51.0 u93299028 open "/logs/access.log.27.5.gz" flags READ mode 0666
+Jul  8 15:30:16 10.71.51.0 u93299028 open "/logs/access.log.27.3.gz" flags READ mode 0666
+Jul  8 15:30:16 10.71.51.0 u93299028 close "/logs/access.log.27.5.gz" bytes read 1366 written 0
+Jul  8 15:30:16 10.71.51.0 u93299028 [10.71.51.0|get|0|1366|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e352e677a|]
+Jul  8 15:30:16 10.71.51.0 u93299028 close "/logs/access.log.27.3.gz" bytes read 1116 written 0
+Jul  8 15:30:16 10.71.51.0 u93299028 [10.71.51.0|get|0|1116|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e332e677a|]
+Jul  8 15:30:16 10.71.51.0 u93299028 open "/logs/access.log.27.2.gz" flags READ mode 0666
+Jul  8 15:30:16 10.71.51.0 u93299028 open "/logs/access.log.26.3.gz" flags READ mode 0666
+Jul  8 15:30:16 10.71.51.0 u93299028 close "/logs/access.log.27.2.gz" bytes read 822 written 0
+Jul  8 15:30:16 10.71.51.0 u93299028 [10.71.51.0|get|0|822|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e322e677a|]
+Jul  8 15:30:16 10.71.51.0 u93299028 close "/logs/access.log.26.3.gz" bytes read 642 written 0
+Jul  8 15:30:16 10.71.51.0 u93299028 [10.71.51.0|get|0|642|0|0|0|2f6c6f67732f6163636573732e6c6f672e32362e332e677a|]
+Jul  8 15:30:16 10.71.51.0 u93299028 open "/logs/access.log.24.gz" flags READ mode 0666
+Jul  8 15:30:16 10.71.51.0 u93299028 open "/logs/sftp.log.25.gz" flags READ mode 0666
+Jul  8 15:30:17 10.71.51.0 u93299028 close "/logs/sftp.log.25.gz" bytes read 232 written 0
+Jul  8 15:30:17 10.71.51.0 u93299028 [10.71.51.0|get|1|232|0|0|0|2f6c6f67732f736674702e6c6f672e32352e677a|]
+Jul  8 15:30:17 10.71.51.0 u93299028 close "/logs/access.log.24.gz" bytes read 6662 written 0
+Jul  8 15:30:17 10.71.51.0 u93299028 [10.71.51.0|get|1|6662|0|0|0|2f6c6f67732f6163636573732e6c6f672e32342e677a|]
+Jul  8 15:30:17 10.71.51.0 u93299028 open "/logs/access.log.21.gz" flags READ mode 0666
+Jul  8 15:30:17 10.71.51.0 u93299028 open "/logs/sftp.log" flags READ mode 0666
